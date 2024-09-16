@@ -89,7 +89,7 @@ The model architecture in PyTorch is similar to the scratch implementation:
 
 PyTorch abstracts much of the low-level details (e.g., backpropagation) and provides built-in optimizers and loss functions, making the process more streamlined compared to the scratch implementation.
 
-### Hyperparameters
+***Hyperparameters***
 
 - Learning rate: 0.5
 - Number of epochs: 30
